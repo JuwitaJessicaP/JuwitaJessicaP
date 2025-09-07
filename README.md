@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Juwita Jessica Pangestu  
 
-🎓 **Incoming Finance Major @ University of Washington, Foster School of Business**  
+🎓 **Finance Major @ University of Washington, Foster School of Business**  
 💡 Passionate about blending **analytical excellence** with **creative vision** to drive financial innovation and meaningful impact.  
 
 ---

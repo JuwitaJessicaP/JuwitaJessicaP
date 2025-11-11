@@ -16,7 +16,7 @@
 ## 🚀 Projects
 🔹 [**Portfolio Website**](https://juwitajessica.com) – My personal site showcasing education, experience, and creative work.  
 🔹 [**Cyclistic Bike-Share Case Study**](https://github.com/JuwitaJessicaP/Cyclistic-Bike-Share-Case-Study) – A data analytics case study using **SQL + BigQuery + Looker Studio**.  
-🔹 [**IShowStream**](https://github.com/JosephDavisC/IShowStream) – An AI-Powered Multi-Agent Twitch Chat Analytics Platform**.  
+🔹 [**IShowStream**](https://github.com/JosephDavisC/IShowStream) – An AI-Powered Multi-Agent Twitch Chat Analytics Platform.  
 
 ---
 
